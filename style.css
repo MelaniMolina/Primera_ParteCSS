@@ -1,0 +1,79 @@
+body{
+    background: papayawhip;
+}
+header{
+    background-color: teal;
+  }
+  
+  header{
+      color:white; 
+  }
+  header{
+      text-align: center;
+  }
+  .sobre-nosotros{
+      background-color: teal;
+  }
+  .sobre-nosotros{
+      color:white;
+   }
+   .sobre-nosotros{
+      text-align: center;
+   }
+
+   .titulo3{
+       background-color: teal;
+   }
+   .titulo3 {
+    color: beige;
+   }
+   .titulo3{
+    text-align: center;
+   }
+
+   .final{
+    background-color:  teal;
+   }
+   .final{
+    color: white;
+   }
+   .final{
+    text-align: center;
+   }
+
+   #parrafoNum1{
+   background-color: coral;
+   }
+   #parrafoNum1{
+    color:blue;
+   }
+   #parrafoNum1{
+    text-align: right;
+   }
+   .🍔{
+     background-color:black;
+   }
+   .🍔{
+      color:yellow;
+   }
+   .🍔{
+    text-align: left;
+   }
+   .🍔{
+    font-size: 30;
+   }
+   .🍔{
+    text-decoration-line: underline;
+   }
+   *{
+    background-color: #ddbcdb;
+   }
+   *{
+    color:black;
+   }
+   *{
+       text-align: center;
+   }
+   *{
+    font-size: 25;
+   }
